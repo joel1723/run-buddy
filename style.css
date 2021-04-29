@@ -25,10 +25,6 @@ header h1 {
 }
 
 header a {
-  color: #fce238;
-}
-
-header a {
   text-decoration: none;
   color: #fce138;
 }
@@ -75,4 +71,54 @@ footer a {
 }
 section {
   padding: 60 px;
+}
+
+/* hero style start */
+.hero {
+  background-image: url("assets/images/hero-bg.jpeg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+/* hero style end */
+
+.hero-form {
+  border: 3px solid #024e76;
+  background-color: #fce138;
+  padding: 20px;
+  width: 500px;
+  color: #024e76;
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
+}
+
+.hero-form h3 {
+  font-size: 24px;
+  margin: 0;
+}
+hero-form p {
+  margin: 5px o 15px;
+}
+hero-input {
+  border: 1 px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.hero-form label {
+  margin: 0 5px;
+}
+
+.hero-form button {
+  color: #fce138;
+  background-color: #024e76;
+  border: none;
+  padding: 10 px 20px;
+  font-size: 16px;
 }
