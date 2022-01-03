@@ -13,3 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by [joel jean laurent]
 
+### ©️2021 Run Buddy, Inc 
